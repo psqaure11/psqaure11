@@ -23,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=psqaure11&show_icons=true&locale=en" alt="psqaure11" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=psqaure11&" alt="psqaure11" /></p>
+
+[![An image of @psqaure11's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/psqaure11)](https://holopin.io/@psqaure11)
